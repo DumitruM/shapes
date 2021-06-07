@@ -1,10 +1,7 @@
 //
 //  AppDelegate.swift
 //  Drawing Fin
-//
-//  Created by ZappyCode on 11/7/19.
-//  Copyright © 2019 ZappyCode. All rights reserved.
-//
+
 
 import UIKit
 
